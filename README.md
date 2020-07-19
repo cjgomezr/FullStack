@@ -1,2 +1,0 @@
-# FullStack
-Curso Full Stack
